@@ -51,4 +51,4 @@ https://creditcard-anomaly-detection-vebfssgshcanmwt9sefdw7.streamlit.app/
 ## Author
 Abhishek Bapna
 ### GitHub: https://github.com/abhishekbapna51/
-### Portfolio: my-portfolio-abhishek-bapnas-projects.vercel.app/
+### Portfolio: https://my-portfolio-abhishek-bapnas-projects.vercel.app/
