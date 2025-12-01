@@ -39,15 +39,16 @@ pip install -r requirements.txt
 
 ## Run the Streamlit application:
 streamlit run app.py
+```
 
-Upload dataset:
+## Upload dataset:
 Upload a CSV file containing numerical transaction features.
 Adjust model parameters as needed and run anomaly detection.
 
-Live Application
+## Live Application
 https://creditcard-anomaly-detection-vebfssgshcanmwt9sefdw7.streamlit.app/
 
-Author
+## Author
 Abhishek Bapna
 GitHub: https://github.com/abhishekbapna51
 Portfolio: my-portfolio-abhishek-bapnas-projects.vercel.app
